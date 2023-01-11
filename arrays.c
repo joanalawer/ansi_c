@@ -1,4 +1,4 @@
-#include <stduo.h>
+#include <stdio.h>
 
 /* count digits, whitespaces, others */
 main()

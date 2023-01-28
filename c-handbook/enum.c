@@ -8,4 +8,8 @@ int main(void) {
    WEEKDAY day = Monday;
 
     if (day == 0) {
-	printf("Thank God It's Monday!");
+	printf("Thank God It's Monday!\n");
+    } else {
+	printf("It's not Monday");
+    }
+}
